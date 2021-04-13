@@ -81,6 +81,7 @@ body {
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: 10px; 
+  opacity: .8;
 }
 	
   
