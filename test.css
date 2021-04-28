@@ -8,7 +8,7 @@ body {
 
 
 #header-nav {
-  background-color: #0B0B61;
+  background-color: #aaa;
   border-radius: 0;
   border: 0;
 }
@@ -43,8 +43,8 @@ navbar-brand {
 	padding-top:0;
 }
  h2 { 
-
-  text-align: center;
+   font-size: 10px;
+   text-align: center;
 }
 
 section{
