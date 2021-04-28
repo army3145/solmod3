@@ -29,13 +29,14 @@ body {
   margin-bottom: 0;
   line-height: .5
   text-align: left;
+  opacity:0.4;
 }
 
 
 }
 .contianer{
 	width: 100%;
-	padding-top: 20 Dxpx;
+	padding-top: 20;
 }
  h2 { 
 
