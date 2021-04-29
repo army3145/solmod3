@@ -23,17 +23,17 @@ navbar-brand {
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
   color: #D8D9E6;
-  font-size: 16px;
+  font-size: .5em;
   text-transform: uppercase;
   font-weight: bold;
-  text-shadow: 4px 4px 5px white;
-  margin-top: 30px;
+  text-shadow: 4px 4px 5px #222;
+  margin-top: 0;
 
-  margin-bottom: -20px;
+  margin-bottom: 0;
   line-height: .75;
   text-align: left;
   opacity:0.4;
-  padding:5px;
+  
 }
 
 
