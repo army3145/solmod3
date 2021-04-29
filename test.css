@@ -29,7 +29,7 @@ navbar-brand {
   text-shadow: 4px 4px 5px white;
   margin-top: 30px;
 
-  margin-bottom: 0;
+  margin-bottom: -20px;
   line-height: .75;
   text-align: left;
   opacity:0.4;
@@ -53,8 +53,10 @@ section {
         margin: 0;
 }
   p   {	
-	  font-size: 10px;
+	  font-size: 14px;
 	  text-align: center;
+          font-wieght: italics;
+
 }
 
 
