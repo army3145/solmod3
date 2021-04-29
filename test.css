@@ -3,7 +3,7 @@ body {
   color:#aaa;
   background-color: #557c3e;
   font-family: 'Oxygen', sans-serif;
-  height:1000px;
+  height:100px;
 }
 
 
@@ -30,7 +30,7 @@ navbar-brand {
   margin-top: 30px;
 
   margin-bottom: 0;
-  line-height: .5;
+  line-height: .75;
   text-align: left;
   opacity:0.4;
   padding:5px;
