@@ -17,13 +17,13 @@ body {
 
 
 navbar-brand {
-  padding-top: 25px;
+  padding-top: -20px;
 }
 
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
   color: #D8D9E6;
-  font-size: .5em;
+  font-size: .10em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 4px 4px 5px #222;
@@ -61,7 +61,7 @@ section {
 }
 
 
-li{ 
+li { 
  color: grey;
  text-align: left;
  
