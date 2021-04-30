@@ -14,7 +14,7 @@ body {
 }
 
 
-.
+
 
 navbar-brand {
   padding-top: 25px;
@@ -38,7 +38,7 @@ navbar-brand {
 
 
 }
-.contianer{
+.contianer {
 	width: 1000%;
 	padding-top:0;
 }
@@ -55,7 +55,7 @@ section {
   p   {	
 	  font-size: 14px;
 	  text-align: center;
-          font-wieght: italics;
+          font-weight: italics;
 
 }
 
